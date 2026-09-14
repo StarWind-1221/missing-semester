@@ -1,0 +1,13 @@
+/tmp:
+closeditems-XktLMO
+plasma-csd-generator.FHxafm
+sddm-:0-KmvVFu
+sddm-auth-68e9f4b6-ad02-4832-a17f-cc1227999fac
+systemd-private-cf11423ad6524965be9fa51f9d234388-ModemManager.service-T9Zxew
+systemd-private-cf11423ad6524965be9fa51f9d234388-polkit.service-8iGQ2Y
+systemd-private-cf11423ad6524965be9fa51f9d234388-power-profiles-daemon.service-JERXkZ
+systemd-private-cf11423ad6524965be9fa51f9d234388-switcheroo-control.service-K8cUrG
+systemd-private-cf11423ad6524965be9fa51f9d234388-systemd-logind.service-WNBtEj
+systemd-private-cf11423ad6524965be9fa51f9d234388-upower.service-JM1Z7a
+VMwareDnD
+vmware-root_695-4021718990
